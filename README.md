@@ -1,5 +1,7 @@
 # Spotify Advanced SQL Project and Query Optimization
 
+![Spotify Logo](https://github.com/dishanayak144/SpotifySQLAnalysis/blob/main/Spotify%20Logo%20JPG.jpg)
+
 ## Overview
 This project focuses on the practical application of advanced SQL skills in the context of a Spotify dataset. The workflow encompasses database normalization, complex query development, and rigorous query optimization. The objective is to demonstrate proficiency in data manipulation and analysis, deriving actionable insights from a large-scale dataset.
 
