@@ -16,7 +16,7 @@ Before diving into SQL, it’s important to understand the dataset thoroughly. T
 - `Album_type`: The type of album (e.g., single or album).
 - Various metrics such as `danceability`, `energy`, `loudness`, `tempo`, and more.
 
-### 4. Querying the Data
+### 2. Querying the Data
 After the data is inserted, various SQL queries can be written to explore and analyze the data. Queries are categorized into "Level 1", "Level 1", "Level 3".
 
 #### Level 1 Queries
@@ -28,7 +28,7 @@ After the data is inserted, various SQL queries can be written to explore and an
 #### Level 3 Queries
 - Nested subqueries, window functions, CTEs, and performance optimization.
 
-## Query Optimization Technique 
+### 3. Query Optimization Technique 
 
 To improve query performance, we carried out the following optimization process:
 
